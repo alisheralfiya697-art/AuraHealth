@@ -1,0 +1,6 @@
+{
+  "name": "AuraHealth - Doctor Directory & Appointment Booking",
+  "description": "Polished React Native mobile application feature for discovering specialized physicians, filtering by specialty and availability, viewing rich doctor profiles, and scheduling verified appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
